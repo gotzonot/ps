@@ -8,7 +8,6 @@ version '2.0.1'
 
 lua54 'yes'
 
-dependecy 'ox_lib'
 
 ui_page 'html/index.html'
 -- ui_page 'http://localhost:3000/' --for dev
